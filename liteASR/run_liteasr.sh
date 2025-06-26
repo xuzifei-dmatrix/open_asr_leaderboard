@@ -3,12 +3,7 @@
 export PYTHONPATH="..":$PYTHONPATH
 
 MODEL_IDs=(
-    "efficient-speech/lite-whisper-large-v3-acc"
-    "efficient-speech/lite-whisper-large-v3"
-    "efficient-speech/lite-whisper-large-v3-fast"
-    "efficient-speech/lite-whisper-large-v3-turbo-acc"
-    "efficient-speech/lite-whisper-large-v3-turbo"
-    "efficient-speech/lite-whisper-large-v3-turbo-fast"
+    "d-matrix/eas-lite-whisper-large-v3-acc"
 )
 BATCH_SIZE=64
 
