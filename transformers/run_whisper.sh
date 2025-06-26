@@ -2,7 +2,7 @@
 
 export PYTHONPATH="..":$PYTHONPATH
 
-MODEL_IDs=("openai/whisper-large-v3.5")
+MODEL_IDs=("distil-whisper/distil-large-v3.5")
 BATCH_SIZE=64
 
 num_models=${#MODEL_IDs[@]}
