@@ -3,7 +3,7 @@
 export PYTHONPATH="..":$PYTHONPATH
 
 MODEL_IDs=(
-    "d-matrix/eas-lite-whisper-large-v3-acc"
+    "d-matrix/eas-distil-large-v3.5"
 )
 BATCH_SIZE=64
 
